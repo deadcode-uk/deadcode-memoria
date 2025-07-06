@@ -2,6 +2,20 @@
 
 A simple, fast state management solution for use with React
 
+**Installation**
+
+```
+npm install @deadcode-uk/memoria
+```
+
+**Peer Dependencies**
+
+Your project will need to include the following packages:
+
+```
+react
+```
+
 ## Client-side
 
 This library provides a React hook to access and observe state, so any components that use the hook need to be rendered client-side

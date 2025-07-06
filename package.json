@@ -1,0 +1,19 @@
+{
+    "name": "@deadcode-uk/memoria",
+    "version": "0.1.0",
+    "type": "module",
+    "main": "index.js",
+    "types": "types.d.ts",
+    "files": [
+        "index.js",
+        "types.d.ts",
+        "license.md",
+        "readme.md"
+    ],
+    "peerDependencies": {
+        "react": "*"
+    },
+    "devDependencies": {
+        "prettier": "^3"
+    }
+}
